@@ -2,3 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @import "jekyll-theme-prologue";
+
+.item {
+    transition: transform 0.3s;
+}
+
+.item:hover {
+    transform: scale(1.1);
+}
