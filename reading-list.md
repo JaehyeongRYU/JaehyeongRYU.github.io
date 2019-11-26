@@ -1,22 +1,18 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: To Do List
+subtitle: a list of works I have to do or I want to do
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
-
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+1. Studying Web Development
+2. Studying App Development
+3. Studying Algorithm using C++
+4. Finishing My Own Portfolio
+5. Make MY Own Jekyll Theme 
+6. Participating The Contest "HACKATHON"
+7. Finding What I Wanna Do For Job
+8. Make MY Own Company
+9. Traveling Europe And Watching Champions League
+10. Be A Great Software Engineer
